@@ -127,7 +127,8 @@ dmypy.json
 .pyre/
 
 
-test_alone/image/
+
+test_alone/
 kochat/
 docs/
 demo/
