@@ -127,7 +127,6 @@ dmypy.json
 .pyre/
 
 
-question_data/
 test_alone/
 kochat/
 docs/
