@@ -130,7 +130,11 @@ dmypy.json
 test_alone/
 kochat/
 docs/
-demo/
+demo/data/
+demo/kochat/
+demo/saved/
+demo/static/
+demo/templates/
 .idea/
 README.md
 
